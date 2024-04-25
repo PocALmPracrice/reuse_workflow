@@ -4,4 +4,4 @@ on:
 jobs: 
    reuse:
     # runs-on: ubuntu-latest
-    uses: PocALMPractice/github_Action_All/.github/workflows/trigger_by_event.yml@main
+    uses: PocALMPractice/github_Action_All/.github/workflows/resue_me.yml@main

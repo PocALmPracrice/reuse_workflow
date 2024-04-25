@@ -1,6 +1,6 @@
 name: shared_workflow
 on: 
-    push:
+    workflow_dispatch:
 jobs: 
    reuse:
     # runs-on: ubuntu-latest

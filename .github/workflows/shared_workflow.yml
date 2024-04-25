@@ -4,4 +4,4 @@ on:
 jobs: 
    reuse:
     # runs-on: ubuntu-latest
-    uses: PocALMPractice/github_Action_All/.github/workflows/resue_me.yml@main
+    uses: PocALmPracrice/github_Action_All/.github/workflows/resue_me.yml@main

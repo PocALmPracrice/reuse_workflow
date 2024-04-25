@@ -1,0 +1,7 @@
+name: shared_workflow
+on: 
+    push:
+jobs: 
+   reuse:
+    # runs-on: ubuntu-latest
+    uses: PocALMPractice/reuse_workflow/.github/workflows/shared_workflow.yml@main
